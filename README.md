@@ -20,6 +20,6 @@ pelo www.youtube.com
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoaozinDaprogramacao&show_icons=true&theme=dark" alt="Anurag's GitHub stats" height="165px" />
 
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=002y&layout=compact&theme=dark)](https://github.com/002y)
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaozinDaprogramacao&layout=compact&theme=dark)](https://github.com/002y)
 
 <br>
