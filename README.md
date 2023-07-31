@@ -3,7 +3,7 @@ meu nome é João Emanuel e sou dev Java
 
 💻 Programo em Java usando Spring Bot para micro serviços.
 
-📜 Estudante da plataforma alura a quase 2 anos, formado a 2 anos e meio
+📜 Estudante da plataforma Alura a quase 2 anos, formado a 2 anos e meio
 pelo www.youtube.com 
 
 📱Entre em contato comigo:
